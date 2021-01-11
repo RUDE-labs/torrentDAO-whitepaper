@@ -12,7 +12,7 @@
 **Please do not copy or disseminate any part of this Working White Paper without including this disclaimer.**
  
 ## Architects:
-Milad Mostavi, Troy Murray and Zach LeBeau
+Milad Mostavi & Troy Murray
 
 
 ## CONTENTS
