@@ -3,6 +3,8 @@
 # torrentDAO White Paper
 
 ## A public decentralized media P2P marketplace distribution utility protocol
+## [Smart Contracts](https://github.com/RUDE-labs/torrentDAO-smartcontracts)
+## [Torrent network build on State Channels](https://github.com/RUDE-labs/webtorrent)
  
 ## Architects:
 Milad Mostavi & Troy Murray
