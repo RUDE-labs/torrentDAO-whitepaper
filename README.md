@@ -1,15 +1,8 @@
 ![](images/logo.png)
 
-# SNGLS DAO White Paper
+# torrentDAO White Paper
 
 ## A public decentralized media P2P marketplace distribution utility protocol
-
-
-**This Working White Paper is a draft and is intended for discussion and information purposes only.  It is being released in its current form in order to inspire spirited debate and allow time for our community to thoughtfully engage with a potential direction for our token.  No part of this Working White Paper is legally binding or enforceable against its authors, Breaker, its affiliates or their employees, nor is it meant to be.  It does not reflect the official position of Breaker at this time and should not be considered by anyone as a business plan or a promise to implement the ideas described herein.**
- 
-**Nothing in this Working White Paper shall be deemed to constitute a prospectus of any sort or a solicitation for investment, nor does it in any way pertain to an offer to sell or a solicitation of an offer to buy any securities in any jurisdiction at any time.**
- 
-**Please do not copy or disseminate any part of this Working White Paper without including this disclaimer.**
  
 ## Architects:
 Milad Mostavi & Troy Murray
