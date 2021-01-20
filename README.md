@@ -50,15 +50,9 @@ Milad Mostavi & Troy Murray
 1. Mechanism
 2. Flow of System
 
-### **VI. Homepage Content Display**
+### **VI. Glossary**
 
-  1. Token Curated Registry
-  2. WEB2.0 - Traditional Siloed Curation
-  3. WEB3.0 - Curation Marketplace
-  
-### **VII. Glossary**
-
-### **VIII. References**
+### **VII. References**
 
 
 *Words appearing in title case are defined in the glossary*
@@ -149,29 +143,7 @@ Content Mining is designed to allow TOR holders to decide what kind of content t
 
 In the event a piece of content is accepted into the system that is deemed not to be appropriate (ie copyrighted), the Validators will need to vote it out of the system.  When the content is voted off the system the original curators that voted “yes” will be penalized and lose their rewarded TOR payment. 
 
- 
-
-
-
-## VI. HOMEPAGE CONTENT DISPLAY (CURATED STOREFRONTS)
-
-There is a lot of work that goes into curating lists for distribution portals.  Looking at the recent success of Shudder and Crunchy Roll, we can see that specific niche portals can have success. The problem is, once Netflix gets into their niche they have a hard time competing against it. Case in point would be Fandor or Seeso, as soon as Netflix started to offer their specific niche, people just decided it was cheaper to go with Netflix. Seeso saw a dramatic decline in User once Netflix started to release comedy stand-up specials, and was forced to close.
-
-Our solution is to turn curation into a marketplace using Token-Curated Registries (TCR). This way we split the system up allowing market forces to find the best curation according to the user. Curators will compete and collaborate for top spots in a user-curated experience and be rewarded on the backend. TCRs could charge a small fee for a subscription or add a fee every time someone watches a product it recommended. This should give birth to a new and exciting ecosystem that responds to User in ways not thought possible till now.   
-
-### WEB2.0 Traditional Siloed Curation
-
-In the traditional Web2.0 model you have businesses that handle all the costs of building a platform along with the overhead of maintaining them. The platforms attract User by curating a niche selection of content. The cost of all this is then extracted from the artists at the price of around 20-30%. Users also need to pay for each platform, which leads to platform fatigue and gives Netflix or the other big guys an easy data tool to see which markets they need to move into, allowing them to squash competition. 
-
-![](images/WEB2Curation.png)
-
-### WEB3.0 - Curation Marketplace
-
-In the WEB3 Curation Marketplace model we distill the entire ecosystem.  The platform is a base layer that is updated to the needs of the system, keeping overhead low and not extracting wealth from the artists as we covered in the DAO section.  The curation of content happens on the second layer and is a marketplace for curators to compete with each other, thus using market forces to create the best curation according to the User.
-
-![](images/WEB3Curation.png)
-
-## VII. Glossary
+## VI. Glossary
 1. **Breaker DApp:** A high end content portal that sits on top of the media distribution protocol. Handles the processes that need a legal entity for the traditional Hollywood world and banking system charging a 20% service fee.
 2. **Media Distribution Protocol:** A trustless global media distribution protocol anyone can come in and build on top of spurring a decentralized entertainment economy, controlled by the torrentDAO.
 3. **Tech Stack:** A set of software that provides the infrastructure for a technology system.
@@ -196,7 +168,7 @@ In the WEB3 Curation Marketplace model we distill the entire ecosystem.  The pla
 22. **Peer2Peer (P2P):** A computer system where all “peers” are connected to each other via the Internet.  Files can be shared directly between systems on the network without the need for a central server.
 
 
-## VIII. References
+## VII. References
 NBC News - Twitter pulls down bot network that pushed proSaudi talking points about disappeared journalist, https://www.nbcnews.com/tech/tech-news/exclusive-twitter-pulls-down-bot-network-pushing-pro-saudi-talking-n921871
 
 Bitcoin.org - Bitcoin Whitepaper, https://bitcoin.org/bitcoin.pdf
