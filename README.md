@@ -1,4 +1,4 @@
-![](images/TD_logo_orange-white.png.png)
+![](images/TD_logo_orange-white.png)
 
 # torrentDAO White Paper
 
