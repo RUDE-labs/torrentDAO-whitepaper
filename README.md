@@ -5,6 +5,8 @@
 ## A public decentralized media P2P marketplace distribution utility protocol
 ## [Smart Contracts](https://github.com/RUDE-labs/torrentDAO-smartcontracts)
 ## [Torrent network build on State Channels](https://github.com/RUDE-labs/webtorrent)
+# [Website](https://torrentdao.com)
+# [Twitter](https://twitter.com/torrentDAO)
  
 ## Architects:
 Milad Mostavi & Troy Murray
